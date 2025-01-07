@@ -21,7 +21,7 @@ body{
 #header{
     width: 250;
     height: 100vh;
-    background-image: url(file:///D:/ThreeZero%20Business/ThreeZero/vecteezy_recycling-concept-recycle-sign-for-ecological-zero-waste_25876330.jpeg);
+    background-image:url('image/recycle.jpg');
     background-size:contain;
     background-position: center;
 }
